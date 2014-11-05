@@ -33,7 +33,7 @@ DIR
 │  Joel Hanson & Sara Groves - Traveling Light - 副本 - 副本.mp3
 │  Joel Hanson & Sara Groves - Traveling Light.mp3
 │  泳儿 - 原来爱情那么难 - 副本.mp3
-│  泳儿 - 原来爱情那么难.mp3>
+│  泳儿 - 原来爱情那么难.mp3
 │
 ├─泳儿
 │      泳儿 - 原来爱情那么难.mp3
