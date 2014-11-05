@@ -15,26 +15,25 @@
 效果
 ===============
 归类前目录文件结构
-> 
-DIR
-│  01.Amy Diamond - Heartbeats - 副本 - 副本.mp3
-│  01.Amy Diamond - Heartbeats.mp3
-│  02.泳儿 - 原来爱情那么难 - 副本 - 副本.mp3
-│  02.泳儿 - 原来爱情那么难.mp3
-│  03.Joel Hanson & Sara Groves - Traveling Light - 副本.mp3
-│  03.Joel Hanson & Sara Groves - Traveling Light.mp3
-│  Amy Diamond - Heartbeats - 副本.mp3
-│  Amy Diamond - Heartbeats.mp3
-│  app.js
-│  Joel Hanson & Sara Groves - Traveling Light - 副本 - 副本.mp3
-│  Joel Hanson & Sara Groves - Traveling Light.mp3
-│  泳儿 - 原来爱情那么难 - 副本.mp3
-│  泳儿 - 原来爱情那么难.mp3
-│
-├─泳儿
-│      泳儿 - 原来爱情那么难.mp3
-│
-└─临时目录
+> DIR
+> │  01.Amy Diamond - Heartbeats - 副本 - 副本.mp3
+> │  01.Amy Diamond - Heartbeats.mp3
+> │  02.泳儿 - 原来爱情那么难 - 副本 - 副本.mp3
+> │  02.泳儿 - 原来爱情那么难.mp3
+> │  03.Joel Hanson & Sara Groves - Traveling Light - 副本.mp3
+> │  03.Joel Hanson & Sara Groves - Traveling Light.mp3
+> │  Amy Diamond - Heartbeats - 副本.mp3
+> │  Amy Diamond - Heartbeats.mp3
+> │  app.js
+> │  Joel Hanson & Sara Groves - Traveling Light - 副本 - 副本.mp3
+> │  Joel Hanson & Sara Groves - Traveling Light.mp3
+> │  泳儿 - 原来爱情那么难 - 副本.mp3
+> │  泳儿 - 原来爱情那么难.mp3>
+> │
+> ├─泳儿
+> │      泳儿 - 原来爱情那么难.mp3
+> │
+> └─临时目录
 
 归类后的目录结构
 > 
