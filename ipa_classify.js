@@ -3,7 +3,7 @@ let path = require('path');
 let REGEX = /(.*?)\s(\d+\s)?([\d\.]*)?\.ipa/;
 
 fs.readdir(__dirname, function(err, docs) {
-    if (!err) {
+    if (err) {
         console.log('\033[31m' + err.message);
         return;
     }
@@ -24,7 +24,7 @@ fs.readdir(__dirname, function(err, docs) {
                 
                 fs.rename(oldfile, newfile, function(err) {
                     if (!err) {
-                        console.log('\033[32m' + filename + '\033[39m \t\t\tmoved to \t' + '\033[32m' + resolvePath + '\033[39m');
+                        console.log('\033[32m' + filename + '\033[39m \t\tmoved to \t' + '\033[32m' + resolvePath + '\033[39m');
                     } else {
                         console.log('\033[31m' + filename + '\033[39m move failure!\n');
                     }
